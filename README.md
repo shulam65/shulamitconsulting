@@ -1,0 +1,2 @@
+# shulamitconsulting
+Business Intelligence 
